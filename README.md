@@ -32,7 +32,7 @@ TaskApp is a simple ASP.NET Core Web API for managing tasks. It supports creatin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TaskApp.git
+   git clone https://github.com/EliSchweitzer1/TaskApp.git
    cd TaskApp
    ```
 
